@@ -12,4 +12,8 @@ public class Calculadora {
 	public void restar(int n1, int n2) {
 		System.out.println("Resta = " + (n1 - n2));
 	}
+	
+	public void multiplicacion(int n1, int n2) {
+		System.out.println("Multiplicacion = " + (n1 * n2));
+	}
 }
